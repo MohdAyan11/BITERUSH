@@ -1,0 +1,6 @@
+{
+  "name": "CampusBite - Digital College Canteen",
+  "description": "Modern online ordering, live token tracking, and digital canteen management for college students and staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
